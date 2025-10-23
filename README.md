@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+---
+
+### Joke
+Why do programmers prefer dark mode? Because light attracts bugs. 😄
