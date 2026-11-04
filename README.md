@@ -1,8 +1,6 @@
-## Hi there 👋
+## 👋
 
-🔭 This is where I dabble with code a bit
-
-📫 How to reach me: https://www.linkedin.com/in/cuneythavlioglu/
+🔭 I am a fish. I know everything.
 
 <!--
 **j8havli/j8havli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
